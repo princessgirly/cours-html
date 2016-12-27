@@ -29,3 +29,5 @@ C'est un document qui rassemble un ou plusieurs styles CSS qui définissent la m
 
 /home/nadege/Images/1.png
 1.png
+![tableau](2.png)
+![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
