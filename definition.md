@@ -27,7 +27,5 @@ Feuille de styles
 
 C'est un document qui rassemble un ou plusieurs styles CSS qui définissent la mise en forme d'un document. Si la feuille de styles est interne à un document, les différents styles doivent être définis dans l'en-tête du document, entre les balises <style type="text/css"> et </style>. Si la feuille de styles est externe, vous devez définir les styles dans un fichier d'extension .css et y faire référence dans l'en-tête du document en utilisant une balise <link rel="stylesheet" type="text/css" href="feuille-de-styles.css" />. Ici, la feuille de styles a pour nom feuille-de-styles.css.
 
-/home/nadege/Images/1.png
-1.png
 ![tableau](1.png)
-![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
+
