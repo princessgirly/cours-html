@@ -27,26 +27,5 @@ Feuille de styles
 
 C'est un document qui rassemble un ou plusieurs styles CSS qui définissent la mise en forme d'un document. Si la feuille de styles est interne à un document, les différents styles doivent être définis dans l'en-tête du document, entre les balises <style type="text/css"> et </style>. Si la feuille de styles est externe, vous devez définir les styles dans un fichier d'extension .css et y faire référence dans l'en-tête du document en utilisant une balise <link rel="stylesheet" type="text/css" href="feuille-de-styles.css" />. Ici, la feuille de styles a pour nom feuille-de-styles.css.
 
-
-Sélecteur
-Type
-Se rapporte à
-h2
-Sélecteur de balise
-Toutes les balises <h2>
-.rouge
-Sélecteur de classe
-Toutes les balises de classe rouge
-#grand
-Sélecteur d'identifiant
-La balise d'identifiant grand
-:first-letter
-Sélecteur de pseudo-élément
-La première lettre d'un élément
-.rouge:first-letter
-Sélecteur de pseudo-élément d'une classe
-La première lettre des balises de classe rouge
-*
-Sélecteur universel
-Toutes les balises
-
+/home/nadege/Images/1.png
+1.png
