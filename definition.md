@@ -40,3 +40,11 @@ Le Document Object Model est une structure de données qui représente un docume
 **DTD**
 
 Le Document TYPE Declaration fait référence à la balise <!DOCTYPE>. Cette dernière doit apparaître en tête des documents HTML. Elle indique au navigateur les règles d'écriture utilisées dans le document. 
+
+**Jeu de caractères**
+
+Le jeu de caractères d'un document HTML est associé aux différents claviers nationaux. Pour indiquer au navigateur dans quel jeu de caractères vous travaillez, vous devez insérer une balise <meta charset=""> dans l'en-tête du document. Deux jeux de caractères sont essentiellement utilisés :
+
+ISO-8859-1 pour accéder à la majorité des caractères des langues occidentales, telles que le français, l'anglais, l'allemand, l'espagnol, etc.
+UTF-8 pour afficher sur une même page des caractères issus de plusieurs langues (français et japonais par exemple).
+Selon vos besoins, vous utiliserez donc une balise <meta charset="ISO-8859-1"> ou <meta charset="UTF-8">.
